@@ -1,0 +1,15 @@
+.div{
+  border: solid,0.1px,black;
+  box-sizing: border-box;
+}
+
+#container{
+  display: flex;
+  flex-wrap: wrap;
+    /* background-color: black; */
+   height:600px;
+   width: 600px;
+  margin-left: 36rem;
+  margin-top: 10rem;
+    
+}
